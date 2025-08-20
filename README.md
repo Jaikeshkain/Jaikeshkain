@@ -68,7 +68,7 @@ I’m a **Software Engineer** with **1.5 years of MERN stack experience**, passi
 ---
 
 ## 📄 Resume  
-[![Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./JaikeshKainResume.pdf)  
+[![Resume](https://img.shields.io/badge/Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/15bDK7oPH8RGmMhCdALv1oM7SkoKPq280/view?usp=drivesdk)  
 
 ---
 
