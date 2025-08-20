@@ -47,7 +47,7 @@ I’m a **Software Engineer** with **1.5 years of MERN stack experience**, passi
 
 ## 📊 GitHub Stats  
 ![Jaikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaikeshkain&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaikeshkain&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaikeshkain&layout=compact&theme=tokyonight&hide=css,html,shell)  
 
 ---
 
